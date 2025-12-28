@@ -1,0 +1,88 @@
+Create and generate a working sandbox website applying and using all the standard (buy, sell trade, market,  deposit wallet and other  functions found on the centralized crypto exchanges (CEXs) website model  (NAME THE CEX "MIxC"), that list digital assets: digital gift,  mobile load/top cards and loyalty points form major U.S. RETAILERS AND SUPPLIERS, (Example: AMAZON, WALMART, COSTCO, SAMS CLUB, APPLE, NIKE, TARGET, top 20 major carry airline miles, hotel and travel  loyalty cards, and others starting with a minimum of 15 with ability to add others at will), card asset denominated in U.S. Dollars currency from USD$10 - USD$500. Enable only the following local currencies in a dropdown menu format:(USD, CNY, HKD, TTD) include country name and currency symbol. 
+
+Platform main purpose is:
+
+The ability to allow users of the platform to seamlessly buy  trade and exchange listed digital U.S. gift card , local and international mobile top-up cards, and points, hotel and air miles assets between users,  shamelessly with GOOGLE Pay WALLET, and international credit cards visa and Mastercard issued by local banks 
+
+
+-------------
+
+
+
+The coded platform UI remains the same. however i want you to,  reorganize the UI to present a different optic version that specifically distinguishes the platform as GIFT CARD oriented trading platform..... that when stressed tested, the platform optics will not be mistaken for crypto trading in certain jurisdictions and comply with law.  
+
+
+1. "Market" panel: relabel "Gift Card and Loyalty Points Market" to Gift Card Market
+
+   - Under "asset" list top 30 gift Cards brands name with thumbnail logos image. list a different random price between USD$20 - USD$500. Include the following gift card brands and logos in the asset list (   
+AMAZON
+APPLE
+TARGET
+TEMU
+BESTBUY                       		
+COST-CO
+EBAY
+GOOGLE-PAY                                                                                                                         MINDCRAFT		
+ACE
+HOME-DEPOT
+SAMS-CLUB
+WAL-MART		
+NIKE
+PLAYSTATION
+COSTCO
+ROBLOX
+FORTNIGHT		
+
+CHINA Premium Gift Cards:
+Buy/Ship:
+
+ALIBABA   			
+ALIEX        	     			
+SHEN
+China Electronics
+China Auto
+China Men's & Women's Ware
+China Luxury Furniture
+... more)   
+
+   - replace/relabel "24h volume" to Quick Trade. 
+
+   - under the newly labeled Quick Trade, put a "Buy" button next to all listed gift card asset 
+     see example of assets with buy button optics at https://coinmarketcap.com.
+ 
+when a user clicks the buy button the page will automatically go to the Quick Trade UI to place the order. 
+
+4. "Quick Trade" UI: 
+
+
+as with eg the 24h volume information to the top 20 coin listed on coinmarketcap.com, until 
+
+market cap crypto currency assets list in white a different dollar amount value  next to each Gift card listed under asset.
+
+   -    
+
+2. 
+
+Replace "latest price and candles tracker" panel with the layout shown in the attached screenshot that allows users to quickly and seamlessly buy listed digital U.S. and other international gift card. See attached Screenshot
+
+
+denomination OF listed digital Gift Card: USD$20-USD$500. 
+
+Transaction trade premium (admin adjustable):
+at check out, 
+
+- Non-KYC free users, automically add premium of 7.9% on-top of gift  
+  card face value. displayed in check-out summary as, network fee 
+
+
+
+allow users to pay with GOOGLE Pay WALLET, and international credit cards visa and Mastercard issued by local banks.
+
+sign up is free, free signup trading limited to USD$480 DAILY USD$980/Month, NO KYC required. 
+
+Users who try to buy over the free account limit must automatically complete KYC ID verification to increased trading limit to USD$980 DAILY per, max monthly TRADE limit USD$4,9800.  
+
+Replace the crypto image logos, symbol and name in each box and with the gift card image logos, symbol and names of the gift card in each box 
+
+
+ 
