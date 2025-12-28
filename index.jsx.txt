@@ -1,0 +1,41 @@
+pages/index.jsx
+
+export default function Home() {
+  return (
+    <div style={{
+      minHeight: "100vh",
+      background: "#0b0e11",
+      color: "#eaecef",
+      fontFamily: "Inter, Arial",
+      padding: "40px"
+    }}>
+      <h1 style={{ color: "#f0b90b" }}>MIxC Exchange (Sandbox)</h1>
+
+      <p>
+        Trade U.S. digital gift cards, mobile top-ups, and loyalty points.
+      </p>
+
+      <div style={{
+        marginTop: "30px",
+        padding: "20px",
+        background: "#161a1e",
+        borderRadius: "8px",
+        maxWidth: "600px"
+      }}>
+        <h3>Available Assets</h3>
+        <ul>
+          <li>Amazon Gift Card (USD)</li>
+          <li>Apple Gift Card (USD)</li>
+          <li>Walmart Gift Card (USD)</li>
+          <li>United Airlines Miles</li>
+          <li>Marriott Bonvoy Points</li>
+        </ul>
+      </div>
+
+      <p style={{ marginTop: "30px", opacity: 0.6 }}>
+        Sandbox only • No real payments • No KYC required
+      </p>
+    </div>
+  );
+}
+
